@@ -1,0 +1,13 @@
+Travel Time (mins),15,30,45,60,75,90,105,120
+Safety Rating,Low,Med,High,,,,,
+Realiability,Low ,Med,High,,,,,
+Night Vision,Independent,Dependent ,Nuetral,,,,,
+Weather,Independent,Dependent ,Nuetral,,,,,
+Energy Source,Electric,Hybrid,Gas,,,,,
+Expected Range (Miles),1,5,10,15,20,,,
+Training Hours,20,30,40,50,60,70,80,90
+Flight Technology,VTOL,STOL,,,,,,
+Passengers ,1,2,3,4,5,6,7,8
+Cost - $$$$,"$200,000","$300,000","$400,000","$500,000","$600,000","$700,000","$800,000","$1,000,000"
+Driving Range (Miles),50,75,100,125,150,175,200,225
+Noise db,50,60,70,80,90,,,

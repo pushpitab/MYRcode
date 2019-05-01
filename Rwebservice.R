@@ -1,0 +1,5 @@
+install.packages("plumber")
+library(plumber)
+setwd("C:/Users/Pushpita/Documents/R")
+r <- plumb("myfile1.R") 
+r$run(port=8000)

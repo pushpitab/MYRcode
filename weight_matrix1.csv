@@ -1,0 +1,3 @@
+"","power","psg","pilot","range","distance","recharge_time","airspeed","grdspeed","power_wt","power_cost","psg_wt","psg_cost","pilot_wt","pilot_cost","range_wt","range_cost","toffdist_wt","toffdist_cost","recharge_time_wt","recharge_cost","airspeed_wt","airspeed_cost","grdspeed_wt","grdspeed_cost","utility","cost"
+"1","FossilFuel",1,"Autonomous",10,0,5,10,10,0.5,1,0.2,1,1,3,0.2,1,1,8,1,0,0,1,0,1,0.406666666666667,0.392265193370166
+"2","Electric",1,"Autonomous",10,0,5,10,10,1,2,0.2,1,1,3,0.2,1,1,8,1,7,0,1,0,1,0.484444444444444,0.552486187845304

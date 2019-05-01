@@ -1,0 +1,10 @@
+choices,opt1,opt2,opt3,opt4,opt5,opt6
+Pilots,1,2,,,,
+Paramedics/Passengers,1,2,3,,,
+Patients,1,2,,,,
+Medical Load,0,150,300,,,
+Battery Load,50,100,150,300,600,1200
+Fuel Capacity,0,50,100,150,300,
+Number Rotors,1,2,4,8,16,
+Segments,1,2,4,,,
+Max Velo,20,40,80,100,120,

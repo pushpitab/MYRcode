@@ -1,0 +1,13 @@
+,age,male,friend_cnt,friend_country_cnt,subscriber_friend_cnt,songsListened,lovedTracks,posts,playlists,shouts,good_country,tenure
+age,1,0.17,,,,,,,,,,
+male,0.17,1,,,,,,,,,,
+friend_cnt,-0.07,-0.02,1,,,,,,,,,
+friend_country_cnt,-0.06,-0.04,0.78,1,,,,,,,,
+subscriber_friend_cnt,0.07,0,0.66,0.56,1,,,,,,,
+songsListened,0,0.12,0.32,0.34,0.21,1,,,,,,
+lovedTracks,0.04,0.03,0.26,0.3,0.27,0.23,1,,,,,
+posts,-0.01,0.01,0.11,0.11,0.08,0.09,0.05,1,,,,
+playlists,0.1,-0.01,0.04,0.08,0.09,0.05,0.14,0.01,1,,,
+shouts,-0.05,-0.03,0.47,0.39,0.31,0.21,0.2,0.18,0.03,1,,
+good_country,0.1,0,-0.05,-0.06,0,0.03,0.03,0,0,-0.03,1,
+tenure,0.27,0.08,0.04,0.04,0.04,0.23,0,0.04,0.08,0.04,0.12,1
